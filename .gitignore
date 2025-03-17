@@ -7,9 +7,9 @@
 ./backend/sheets_discovery.json
 ./backend/sheets_doc_from_discovery.json
 
-*.json
+
 myenv
-__pycache__
+__pycache_
 sample
 # Logs
 logs
