@@ -1,0 +1,9 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+./myenv
+./sample
+./credentials.json
+./sheets_discovery.json
+./sheets_doc_from_discovery.json
+
+*.json
